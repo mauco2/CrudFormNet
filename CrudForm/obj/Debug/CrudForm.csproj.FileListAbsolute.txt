@@ -1,0 +1,14 @@
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\CrudForm\CrudForm\bin\Debug\CrudForm.exe.config
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\CrudForm\CrudForm\bin\Debug\CrudForm.exe
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\CrudForm\CrudForm\bin\Debug\CrudForm.pdb
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\CrudForm\CrudForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\CrudForm\CrudForm\bin\Debug\EntityFramework.dll
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\CrudForm\CrudForm\obj\Debug\CrudForm.csproj.AssemblyReference.cache
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\CrudForm\CrudForm\obj\Debug\CrudForm.Form1.resources
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\CrudForm\CrudForm\obj\Debug\CrudForm.Properties.Resources.resources
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\CrudForm\CrudForm\obj\Debug\CrudForm.csproj.GenerateResource.cache
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\CrudForm\CrudForm\obj\Debug\CrudForm.csproj.CoreCompileInputs.cache
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\CrudForm\CrudForm\obj\Debug\CrudForm.csproj.CopyComplete
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\CrudForm\CrudForm\obj\Debug\CrudForm.exe
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\CrudForm\CrudForm\obj\Debug\CrudForm.pdb
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\CrudForm\CrudForm\obj\Debug\CrudForm.Presentacion.FrmTabla.resources

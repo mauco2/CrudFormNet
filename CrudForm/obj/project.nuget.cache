@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EKNY4PBmqzOKeLt/tP5PkX3WwH+LTflG8kMb2RQW4aNPeC+owHRh8c+SZYkjI5g3FFeyG9WFeFMUOv2VZK9Rnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mauco\\Downloads\\sistemas\\proyectos\\.net\\pruebas c#\\CrudForm\\CrudForm\\CrudForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mauco\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

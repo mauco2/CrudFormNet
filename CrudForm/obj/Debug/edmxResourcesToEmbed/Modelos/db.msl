@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="cursocrudModelStoreContainer" CdmEntityContainer="cursocrudEntities">
+    <EntitySetMapping Name="tabla">
+      <EntityTypeMapping TypeName="cursocrudModel.tabla">
+        <MappingFragment StoreEntitySet="tabla">
+          <ScalarProperty Name="correo1" ColumnName="correo1" />
+          <ScalarProperty Name="nombre1" ColumnName="nombre1" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="correo" ColumnName="correo" />
+          <ScalarProperty Name="fechanacimiento" ColumnName="fechanacimiento" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
